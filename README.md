@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ecreagar
 - 👀 I’m interested in sports applications of data science.
-- 🌱 I’m currently learning about Statistical Machine Learning, Artificial Intelligence, and Big Data.
 - 📫 How to reach me - ethancreagar@gmail.com
 
 [![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecreagar)](https://github.com//github-readme-stats)
